@@ -1,4 +1,4 @@
-﻿string[] arrA = new string[4] {"Hello", "2", "world", ":-)"};
+﻿string[] arrA = new string[4] { "Hello", "2", "world", ":-)" };
 string[] arrB = new string[arrA.Length];
 
 void ArrayAfterSelection(string[] arrA, string[] arrB)
@@ -6,10 +6,10 @@ void ArrayAfterSelection(string[] arrA, string[] arrB)
     int count = 0;
     for (int i = 0; i < arrA.Length; i++)
     {
-    if(arrA[i].Length <= 3)
+        if (arrA[i].Length <= 3)
         {
-        arrB[count] = arrA[i];
-        count++;
+            arrB[count] = arrA[i];
+            count++;
         }
     }
 }
