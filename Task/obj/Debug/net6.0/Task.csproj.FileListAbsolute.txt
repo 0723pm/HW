@@ -1,0 +1,15 @@
+/Users/lisanakasone/Desktop/HW1/Task/bin/Debug/net6.0/Task
+/Users/lisanakasone/Desktop/HW1/Task/bin/Debug/net6.0/Task.deps.json
+/Users/lisanakasone/Desktop/HW1/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/Users/lisanakasone/Desktop/HW1/Task/bin/Debug/net6.0/Task.dll
+/Users/lisanakasone/Desktop/HW1/Task/bin/Debug/net6.0/Task.pdb
+/Users/lisanakasone/Desktop/HW1/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/Users/lisanakasone/Desktop/HW1/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lisanakasone/Desktop/HW1/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/Users/lisanakasone/Desktop/HW1/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/Users/lisanakasone/Desktop/HW1/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/Users/lisanakasone/Desktop/HW1/Task/obj/Debug/net6.0/Task.dll
+/Users/lisanakasone/Desktop/HW1/Task/obj/Debug/net6.0/refint/Task.dll
+/Users/lisanakasone/Desktop/HW1/Task/obj/Debug/net6.0/Task.pdb
+/Users/lisanakasone/Desktop/HW1/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
+/Users/lisanakasone/Desktop/HW1/Task/obj/Debug/net6.0/ref/Task.dll
